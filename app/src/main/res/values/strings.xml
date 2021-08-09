@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TMI3</string>
+    <string name="Jace">
+      <b>"Jace Herondale"\n\n</b>
+"Sarcastic, sometimes to the point of aggression. Jace is all swagger on the outside. When he’s fighting or flirting, he’s one of the best. But he is always trying to keep others at bay, believing that love is too destructive. Despite his caustic exterior, he cares deeply for his friends and allies, and would happily take a bullet (or a demons claw) to protect them."\n\n
+         <b>"Shadowhunter"\n\n</b>
+    </string>
+    <string name="Clary">
+         <b>"Clarissa Fray"\n\n</b>
+       " Outgoing, sarcastic, and loyal. Clary is often ready with a quip to lighten the mood. She is absolutely determined to find her mother, but that doesn’t prevent her from trying to absorb as much as she can about this new world. Indeed, that motivation drives her even more."\n\n
+        <b>"Shadowhunter"\n\n</b>
+    </string>
+    <string name="Alec">
+        <b>"Alec Lightwood"\n\n</b>
+       " Alec Lightwood is a very selfless character who puts the wants and needs of those around him before his own, no matter how detrimental it is to his own well-being. He adheres to the strict rules of the codex but bends the rules to protect the people he loves."\n\n
+        <b>"Shadowhunter"\n\n</b>
+    </string>
+    <string name="izzy">
+    <b>"Isabelle Lightwood"\n\n</b>
+   " Isabelle is compassionate, warm, charming, and is generally welcoming to new friends. Despite her beauty and kick-ass combat skills, Isabelle is seen to be the moral compass that keeps her brothers Alec and Jace in check in tense situations, though she is also seen to have a bit of a defiant side"\n\n
+        <b>"Shadowhunter"\n\n</b>
+    </string>
+    <string name="simon">
+        <b>"Simon Lewis"\n\n</b>
+        "Lewis, he was the nerdy best friend of Clary's. Part of a band that never played music, just thought of names. Went to clubs with Clary, even though he hated it, because he was a good friend. Then his life changed when his best friend was introduced to a different world."\n\n
+        <b>"Mundane-Vampire-Shadowhunter"\n\n</b>
+    </string>
+    <string name="Magnus">
+        <b>"Magnus Bane"\n\n</b>
+       "Magnus is the Hight Warlock of Brooklyn .
+        On the surface, Magnus has oodles of snark and dry sass.But beneath that, he is a deeply wise, cautious and jaded man. He’s the most cheerful and playful one.He is described as very tall and very thin, and at least partly Asian. He has black hair that is usually spiked and glittery. He wears all kinds of make-up, such as glitter  He likes to flaunt his sexuality by wearing rainbow leather pants and other flashy accessories. Isabelle once said he was a "sexy, sexy, warlock." Simon once described him as "a warlock who looks like a gay Sonic the Hedgehog and dresses like the Child Catcher from Chitty Chitty Bang Bang""\n\n
+        <b>"Warlock"\n\n</b>
+
+    </string>
+</resources>
